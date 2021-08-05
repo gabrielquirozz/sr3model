@@ -1,6 +1,6 @@
 #Gabriel Quiroz
 #19255
-#27/07/2021
+#02/08/2021
 #Graficas
 import struct
 from Object import Obj
