@@ -3,7 +3,7 @@
 #02/08/2021
 #Graficas
 import struct
-from Object import Obj
+from obj import Obj
 
 def char(c):
     #1 byte (char)
